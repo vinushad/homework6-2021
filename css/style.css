@@ -139,7 +139,7 @@ header{
 /*Your code here again.*/
 
 @media screen and (prefers-reduced-motion: reduce){
-  logo{
+  #logo{
       animation: none;
   }
 }
